@@ -28,23 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suman0777&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suman0777&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suman0777&theme=tokyonight" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman0777&layout=compact&theme=tokyonight" width="47%" />
-</p>
 
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/suman0777/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">Thanks for visiting! 🚀</p>
