@@ -7,6 +7,10 @@
 
 ---
 
+<p> 🚀i am currently learning backend ....</p>
+
+---
+
 ### 🛠️ My Tech Stack
 
 #### 💻 Languages:
