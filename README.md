@@ -7,40 +7,41 @@
 
 ---
 
-<p> 🚀i am currently learning backend ....</p>
+__🚀 About Me__
+<ul>
+  <li>🌱 I’m currently learning Backend</li>
+  <li>💻 Currently working on React.js Projects and improving my C++ and DSA skills</li>
+  <li>🛠️ Practicing on <a href="https://leetcode.com/u/Suman0777/">LeetCode </a> </li>
+  <li>📢 Sharing daily progress on <a href="https://x.com/sunzuu077"> Twitter </a> </li>
+</ul>
+
+📬 Feel free to reach out: __sumanbasakpl@gmail.com__ 
 
 ---
 
-### 🛠️ My Tech Stack
+# 🛠️ My Tech Stack:
 
-#### 💻 Languages:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## 💻 Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)](https://skillicons.dev)
 
-#### 🌐 Frontend:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## ⚙️ Frameworks & Libraries:
 
-#### ⚙️ Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind)](https://skillicons.dev)
 
-#### 💾 Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## 💾 Database:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,)](https://skillicons.dev) 
 
+## 🛠 Backend:
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,)](https://skillicons.dev)
 
-#### 🛠 Backend:
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## 🔱 Toolkit
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,replit,figma)](https://skillicons.dev) 
 ---
 
-### 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suman0777&show_icons=true&theme=tokyonight" width="47%" />
 </p>
-
 
