@@ -22,7 +22,7 @@ __🚀 About Me__
 # 🛠️ My Tech Stack:
 
 ## 💻 Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,ts)](https://skillicons.dev)
 
 ## ⚙️ Frameworks & Libraries:
 
