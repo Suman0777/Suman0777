@@ -40,8 +40,9 @@ __🚀 About Me__
 ---
 
 # 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suman0777&show_icons=true&theme=tokyonight" width="47%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suman0777&show_icons=true&theme=tokyonight" width="45.5%" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Suman0777&theme=tokyonight" width="48%" />
+</div>
 
