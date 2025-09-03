@@ -36,7 +36,7 @@ __🚀 About Me__
 
 ## 🔱 Toolkit
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,replit,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,replit,figma,postman)](https://skillicons.dev) 
 ---
 
 # 📈 GitHub Stats
