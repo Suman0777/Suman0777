@@ -9,7 +9,7 @@
 
 __🚀 About Me__
 <ul>
-  <li>🌱 I’m currently learning Backend</li>
+  <li>🌱 I’m currently learning ThreeJS and Making real world Projects</li>
   <li>💻 Currently working on React.js Projects and improving my C++ and DSA skills</li>
   <li>🛠️ Practicing on <a href="https://leetcode.com/u/Suman0777/">LeetCode </a> </li>
   <li>📢 Sharing daily progress on <a href="https://x.com/sunzuu077"> Twitter </a> </li>
