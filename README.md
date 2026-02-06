@@ -22,11 +22,11 @@ __🚀 About Me__
 # 🛠️ My Tech Stack:
 
 ## 💻 Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,html,css,java)](https://skillicons.dev)
 
 ## ⚙️ Frameworks & Libraries:
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,threejs)](https://skillicons.dev)
 
 ## 💾 Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres )](https://skillicons.dev) 
