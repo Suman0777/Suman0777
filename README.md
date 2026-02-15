@@ -39,11 +39,13 @@ __🚀 About Me__
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,replit,figma,postman)](https://skillicons.dev) 
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Suman0777)
 
 # 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suman0777&show_icons=true&theme=tokyonight" width="45.5%" />
-  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Suman0777&show_icons=true&theme=dark&cache_seconds=1800" width="45.5%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman0777&theme=tokyo-night" width="95%" />
+
 
   <a href="http://www.github.com/Suman0777">![](https://nirzak-streak-stats.vercel.app/?user=suman0777&theme=blue-green&hide_border=false)<br/></a>
 [![](https://visitcount.itsvg.in/api?id=Suman0777&icon=0&color=0)](https://visitcount.itsvg.in)
