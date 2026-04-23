@@ -26,17 +26,17 @@ __🚀 About Me__
 
 ## ⚙️ Frameworks & Libraries:
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,threejs,vite)](https://skillicons.dev)
 
 ## 💾 Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres )](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase)](https://skillicons.dev) 
 
 ## 🛠 Backend:
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,java)](https://skillicons.dev)
 
 ## 🔱 Toolkit
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,replit,figma,postman)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,atom,replit,figma,postman,stackoverflow)](https://skillicons.dev) 
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Suman0777)
