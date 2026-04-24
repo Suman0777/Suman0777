@@ -29,7 +29,7 @@ __🚀 About Me__
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,threejs,vite)](https://skillicons.dev)
 
 ## 💾 Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma)](https://skillicons.dev) 
 
 ## 🛠 Backend:
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,java)](https://skillicons.dev)
