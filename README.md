@@ -24,7 +24,7 @@ __🚀 About Me__
 ## 💻 Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,html,css,java)](https://skillicons.dev)
 
-## ⚙️ Frameworks & Libraries:
+## ⚙️ Frontend & Frameworks:
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,threejs,vite)](https://skillicons.dev)
 
@@ -32,7 +32,7 @@ __🚀 About Me__
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma)](https://skillicons.dev) 
 
 ## 🛠 Backend:
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,java,next)](https://skillicons.dev)
 
 ## 🔱 Toolkit
 
